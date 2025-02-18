@@ -1,7 +1,7 @@
 const http = require("http");
 const server = http.createServer((req, res) => {
-  res.write("Hello everyone ");
-  res.end("Hope you are fine.");
+  res.write("Athiga aaasapade magaadu.. athiga aavesapade aadadhi  ");
+  res.end("Sukhapadinatu charithra lo ledhu..   @NARASIMHA..");
 });
 server.listen("3000", () => {
   console.log("I love you 3000 times");
